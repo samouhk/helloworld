@@ -1,0 +1,13 @@
+{
+"name": "hello-world-server",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "Sam",
+  "license": "OGCIO",
+  "main": "hello-world-server.js",
+  "keywords": [
+    "nodejs"
+  ],
+  "dependencies": {
+  }
+}

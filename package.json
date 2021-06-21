@@ -12,5 +12,5 @@
   }
 }
 "scripts": {
-    "start": "node your-script.js"
+    "start": "node hello-world-server.js"
 }

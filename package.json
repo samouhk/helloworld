@@ -9,8 +9,8 @@
     "nodejs"
   ],
   "dependencies": {
-  }
-}
-"scripts": {
+  },
+  "scripts": {
     "start": "node hello-world-server.js"
+  }
 }

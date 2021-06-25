@@ -6,5 +6,5 @@ http.createServer(function (req, res) {
 	var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
 	
   res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('The program is called on ' + date + " " + time + ' by Sam');
+  res.end('The program is called on ' + date + " " + time + ' by Sam (Revised)');
 }).listen(8080);
